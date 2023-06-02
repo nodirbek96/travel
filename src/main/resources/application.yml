@@ -1,0 +1,7 @@
+server:
+  port: 8088
+insurance_server:
+  url: http://unipolisapitest.i-polis.uz/api
+  login: unipolisalltrip
+  password: 0dPZcz1ND3
+
